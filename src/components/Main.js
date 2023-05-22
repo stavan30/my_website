@@ -65,7 +65,7 @@ I am open to work in hybrid as well as in-person setting. My goal is to work in 
                     </ul>                                  
                 </div>
                 <h1 className='flex items-center justify-center text-lg pt-10 text-cyan-400'>Thank You!!!</h1> 
-                <h3 className='flex items-center justify-center text-sm pt-2 text-cyan-700'>Information about projects in Resume</h3>  
+                <h3 className='flex items-center justify-center text-sm pt-2 text-cyan-700'>Scroll Down To See Projects</h3>  
             </div>        
         </div>
     </div>
